@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex>
+    <sitemap>
+        <loc>https://tjcaredaily.netlify.com/</loc>
+        <lastmod>2019-03-03</lastmod>
+	    <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </sitemap>
+</sitemapindex>
